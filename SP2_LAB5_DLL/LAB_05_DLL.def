@@ -1,0 +1,2 @@
+LIBRARY LAB_05_DLL
+EXPORTS RemoveMiddleLetter 
